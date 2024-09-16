@@ -18,6 +18,8 @@ The partial cake recipes are courtesy ChatGPT.
 
 # TASK 0: Fork this repo
 
+Please fork this repo: https://github.com/huyang531/Lab2
+
 Note: If you are in lab, your TA will share a different URL for you to fork from, so that you
 can make pull requests to that repo during the Task 3 activity during the lab.
 
